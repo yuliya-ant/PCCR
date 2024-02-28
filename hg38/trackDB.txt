@@ -2,7 +2,7 @@ track dG<=-15
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 3
+visibility pack
 bigDataUrl panhandles_preprocessed_remove_CDS_and_non_coding_some_exons_energy_cutoff_-15_3.bb
 shortLabel dG<=-15
 longLabel PCCR dG <= -15 kcal/mol
@@ -12,7 +12,7 @@ track dG<=-20
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl panhandles_preprocessed_remove_CDS_and_non_coding_some_exons_energy_cutoff_-20_3.bb
 shortLabel dG<=-20
 longLabel PCCR dG <= -20 kcal/mol
@@ -22,7 +22,7 @@ track dG<=-25
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl panhandles_preprocessed_remove_CDS_and_non_coding_some_exons_energy_cutoff_-25_3.bb
 shortLabel dG<=-25
 longLabel PCCR dG <= -25 kcal/mol
@@ -32,7 +32,7 @@ track dG<=-30
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl panhandles_preprocessed_remove_CDS_and_non_coding_some_exons_energy_cutoff_-30_3.bb
 shortLabel dG<=-30
 longLabel PCCR dG <= -30 kcal/mol
@@ -42,7 +42,7 @@ track spread<=1000
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl panhandles_preprocessed_remove_CDS_and_non_coding_some_exons_spread_cutoff_1000_3.bb
 shortLabel spread<=1000
 longLabel PCCR spread <= 1000 nts
@@ -51,7 +51,7 @@ track spread<=100
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl panhandles_preprocessed_remove_CDS_and_non_coding_some_exons_spread_cutoff_100_3.bb
 shortLabel spread<=100
 longLabel PCCR spread <= 100 nts
@@ -60,7 +60,7 @@ track q-value<1
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl panhandles_preprocessed_remove_CDS_and_non_coding_some_exons_evo_qvalue_new_cutoff_0.99_3.bb
 shortLabel q-value<1
 longLabel PCCR q-value < 1
@@ -70,7 +70,7 @@ track q-value<=0.5
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl panhandles_preprocessed_remove_CDS_and_non_coding_some_exons_evo_qvalue_new_cutoff_0.5_3.bb
 shortLabel q-value<=0.5
 longLabel PCCR q-value <= 0.5
@@ -79,7 +79,7 @@ track q-value<=0.1
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl panhandles_preprocessed_remove_CDS_and_non_coding_some_exons_evo_qvalue_new_cutoff_0.1_3.bb
 shortLabel q-value<=0.1 
 longLabel PCCR q-value <= 0.1  
@@ -89,7 +89,7 @@ track PARIS
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl PARIS.bb
 shortLabel PARIS
 longLabel PARIS
@@ -98,7 +98,7 @@ track LIGR-seq
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl LiGRSeq_both_reps.bb
 shortLabel LIGR-seq
 longLabel LIGR-seq
@@ -107,7 +107,7 @@ track RIC-seq
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl ric2_hg38.bb
 shortLabel RIC-seq
 longLabel RIC-seq
@@ -117,7 +117,7 @@ track slow_pol_II
 type bigBed 9
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl slow_pol_track_hg38.bb
 shortLabel slow_pol_II
 longLabel slow RNApol II
@@ -130,7 +130,7 @@ container multiWig
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-visibility 0
+visibility pack
 shortLabel icSHAPE
 longLabel icSHAPE in Hek chromatin
 viewLimits 0:1

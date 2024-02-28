@@ -2,7 +2,7 @@ track dG<=-15
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 3
+visibility 0
 bigDataUrl panhandles_preprocessed_remove_CDS_and_non_coding_some_exons_energy_cutoff_-15_3.bb
 shortLabel dG<=-15
 longLabel PCCR dG <= -15 kcal/mol

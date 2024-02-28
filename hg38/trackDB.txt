@@ -137,12 +137,14 @@ viewLimits 0:1
 
                 track icSHAPE_plus_strand
                 type bigWig
+                visibility 0
                 parent icSHAPE
                 color 255,0,0 
                 bigDataUrl hek_ch_vivo_positive.BigWig
 
                 track icSHAPE_minus_strand
                 type bigWig
+                visibility 0
                 parent icSHAPE
                 color 0,0,255 
                 bigDataUrl hek_ch_vivo_negative.BigWig

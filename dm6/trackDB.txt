@@ -2,7 +2,7 @@ track phs_dG15
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 3
+visibility 1
 bigDataUrl panhandles_preprocessed_filtered_energy_cutoff_-15.bb
 shortLabel phs_dG15
 longLabel phs dG <= -15 kcal/mol

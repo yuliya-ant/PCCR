@@ -2,7 +2,7 @@
 Track Hub for Pairs of Conserved Complementery Regions
 
 ## How it works:
-1. Copy the link https://raw.githubusercontent.com/kalmSveta/PCCR/master/hub.txt
+1. Copy the link https://raw.githubusercontent.com/yuliya-ant/trackhubs/master/hub.txt
 2. Go to UCSC Genome Browser: https://genome.ucsc.edu/
 3. Open My Data -> Track Hubs
 4. Select My Hubs 

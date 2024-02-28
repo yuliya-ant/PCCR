@@ -107,7 +107,7 @@ track RIC-seq
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 0
+visibility pack
 bigDataUrl ric2_hg38.bb
 shortLabel RIC-seq
 longLabel RIC-seq
